@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 i1 = 15
 i2 = 20
 i3 = 25
-i4 = 60
+i4 = 30
 
 x2 = []
 y2 = []
