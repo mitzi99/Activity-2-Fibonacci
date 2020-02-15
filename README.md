@@ -12,7 +12,8 @@ What things you need to install the software and how to install them
 
 note: I am using windows
 
-Here are some photos of what the code's outputs will be
+FOR SAMPLE OUTPUTS I WILL CREATE A FOLDER IN THIS REPOSITORY
+FEEL FREE TO OPEN AND VIEW
 
 
 
